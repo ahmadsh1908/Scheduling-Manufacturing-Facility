@@ -1,4 +1,4 @@
-# Scheduling-Manufacturing-Facility
+# Scheduling Manufacturing Facility
 
 This project is part of the Production Planning and Inventory Planning course (INDE 431) at the American University of Beirut. The project involves the task of efficiently managing worker schedules in a manufacturing facility.
 
